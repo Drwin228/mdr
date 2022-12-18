@@ -14,11 +14,11 @@ geometry: margin=1in
 #Fill this in with any number of instructors. It uses a two column layout with a column break after each instructor.
 
 instructor:
-- name: Dr. Benjamin J. Linzmeier
-  email: blinzmeier@southalabama.edu
+- name: Dr. Francois Nguyen
+  email: Drrstats@gmail.com
   prefered_contact: Canvas LMS messages
   officehours: 1:00-3:00 p.m. MTuTh
-  office: Life Science Building room 344
+  office: 3460
   correspondence_policy: Within 24 hours on weekdays; 48 hours on weekends
   instructor:
 
